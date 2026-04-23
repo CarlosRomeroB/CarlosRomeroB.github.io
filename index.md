@@ -7,18 +7,20 @@ Languages: <img src="assets/img/spain.png" width="18"> <img src="assets/img/germ
 
 ## Research Interests
 
-- Innovation: clusters, agglomeration and spillovers
-- Trade and competition effect on firm innovation
-- Geoeconomics
+- Firm‑level innovation and directed technical change 
+- Trade, competition, and their effects on firm innovation
+- Geoeconomics and strategic industrial policy
+- Semiconductor supply chains and technology bottlenecks
 
 ## Working Projects
 
-- "Innovation at the Top: the Semiconductor Industry"
-- "The China 2.0 Effect: Firm Level Innovation in the EU" with Claudia Steinwender
-- "Climate Change, Trade and Geopolitics: the Arctic" with Martina Magli
+- "Firm Innovation as a Response to Trade Restrictions: Evidence from the Semiconductor Industry"
+- Chinese Import Competition and Firm-Level Innovation in the EU, with _Claudia Steinwender_
+- "Climate Change, Trade and Geopolitics: the Arctic", with _Martina Magli_
 
 ## Teaching
 
+- **Bachelor's Seminar: Innovation and Industrial Policy (Prof. Dr. Monika Schnitzer)** — Supervisor, Summer term 2026 
 - **Mikroökonomie I - Übung** — Teaching Assistant, LMU Munich, Winter term 2025-26
 - **Mikroökonomie I - Übung** — Teaching Assistant, LMU Munich, Summer term 2025
 - **Mikroökonomie I - Übung** — Teaching Assistant, LMU Munich, Winter term 2024-25
