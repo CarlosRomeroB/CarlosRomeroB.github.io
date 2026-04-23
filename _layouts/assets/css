@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+
+  <aside class="sidebar">
+    {% if site.logo %}
+      <img src="{{ site.logo | relative_url }}" alt="Profile picture" class="profile-pic">
+    {% endif %}
+
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+
+    {% if site.contact %}
+      <h3>Contact</h3>
+      <p>{{ site.contact }}</p>
+    {% endif %}
+  </aside>
+
+  <main class="content">
+    {{ content }}
+  </main>
+
+</div>
