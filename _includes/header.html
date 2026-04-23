@@ -1,0 +1,17 @@
+<header class="site-header">
+
+  {% if site.logo %}
+    <img src="{{ site.logo | relative_url }}" alt="Profile picture" class="profile-pic">
+  {% endif %}
+
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
+
+  <!-- Deine Social-Links hier -->
+  <div class="social-links">
+    <a href="https://scholar.google.com">Google Scholar</a><br>
+    <a href="https://orcid.org">ORCID</a><br>
+    <a href="https://www.linkedin.com">LinkedIn</a>
+  </div>
+
+</header>
