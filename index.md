@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## About
 
 I am a doctoral student in Economics at LMU Munich since October 2024. I am mainly interested in innovation, trade and geoeconomics.
