@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  gap: 2rem;
+}
+
+.sidebar {
+  width: 220px;
+  flex-shrink: 0;
+}
+
+.profile-pic {
+  width: 100%;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}
+
+.content {
+  flex: 1;
+}
