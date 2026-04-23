@@ -1,6 +1,5 @@
-#theme: jekyll-theme-minimal
-remote_theme: poole/hyde
+theme: jekyll-theme-minimal
 title: Carlos Romero Blázquez
 description: PhD Student in Economics at LMU Munich
-#logo: assets/img/carlos.jpeg
-#contact: Carlos.Romero@econ.lmu.de
+logo: assets/img/carlos.jpeg
+contact: Carlos.Romero@econ.lmu.de
