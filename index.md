@@ -17,7 +17,7 @@ Languages: <img src="assets/img/spain.png" width="18"> <img src="assets/img/germ
 ## Working Projects
 
 - "Firm Innovation as a Response to Trade Restrictions: Evidence from the Semiconductor Industry"
-- Chinese Import Competition and Firm-Level Innovation in the EU, with _Claudia Steinwender_
+- "Import Competition with China 2.0", with _Claudia Steinwender_
 - "Climate Change, Trade and Geopolitics: the Arctic", with _Martina Magli_
 
 ## Teaching
