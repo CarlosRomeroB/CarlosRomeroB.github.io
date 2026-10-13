@@ -22,7 +22,7 @@ Languages: <img src="assets/img/spain.png" width="18"> <img src="assets/img/germ
 
 ## Teaching
 
-- **Bachelor's Seminar: Firm-Level Responses to Trade Shocks (Prof. Dr. Eckel) ** Supervisor, Winter term 2026-27
+- **Bachelor's Seminar: Firm-Level Responses to Trade Shocks (Prof. Dr. Eckel)** Supervisor, Winter term 2026-27
 - **Bachelor's Seminar: Innovation and Industrial Policy (Prof. Dr. Monika Schnitzer)** — Supervisor, Summer term 2026
 - **Microeconomics: Introduction & Intermediate (Exc. class)** — Teaching Assistant, LMU Munich, Winter term 2026-27
 - **Mikroökonomie I - Übung** — Teaching Assistant, LMU Munich, Winter term 2025-26
