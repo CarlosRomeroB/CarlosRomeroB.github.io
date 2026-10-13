@@ -22,7 +22,9 @@ Languages: <img src="assets/img/spain.png" width="18"> <img src="assets/img/germ
 
 ## Teaching
 
-- **Bachelor's Seminar: Innovation and Industrial Policy (Prof. Dr. Monika Schnitzer)** — Supervisor, Summer term 2026 
+- **Bachelor's Seminar: Firm-Level Responses to Trade Shocks (Prof. Dr. Eckel) ** Supervisor, Winter term 2026-27
+- **Bachelor's Seminar: Innovation and Industrial Policy (Prof. Dr. Monika Schnitzer)** — Supervisor, Summer term 2026
+- **Microeconomics: Introduction & Intermediate (Exc. class)** — Teaching Assistant, LMU Munich, Winter term 2026-27
 - **Mikroökonomie I - Übung** — Teaching Assistant, LMU Munich, Winter term 2025-26
 - **Mikroökonomie I - Übung** — Teaching Assistant, LMU Munich, Summer term 2025
 - **Mikroökonomie I - Übung** — Teaching Assistant, LMU Munich, Winter term 2024-25
@@ -57,3 +59,7 @@ Email: [carlos.romero@econ.lmu.de](mailto:carlos.romero@econ.lmu.de)
 Office: Ludwigstraße 33, Room 356, 80799 München ([Map](https://www.lmu.de/raumfinder/index.html#/building/bw0110/map?room=011003356_))
 
 Connect: [LinkedIn](https://www.linkedin.com/in/carlos-romero-bl%C3%A1zquez/)
+
+## Distinctions
+
+[**Award for Excellence in Teaching**](https://www.lmu.de/alumni-econ/en/awards/teaching-award/), Faculty of Economics, LMU Munich
