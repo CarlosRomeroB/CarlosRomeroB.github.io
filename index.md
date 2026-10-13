@@ -53,6 +53,10 @@ Oct 2016 – Aug 2017
 
 [Download CV (PDF)](assets/CV.pdf)
 
+## Distinctions
+
+[**Award for Excellence in Teaching**](https://www.lmu.de/alumni-econ/en/awards/teaching-award/), Faculty of Economics, LMU Munich
+
 ## Contact
 
 Email: [carlos.romero@econ.lmu.de](mailto:carlos.romero@econ.lmu.de)  
@@ -60,6 +64,3 @@ Office: Ludwigstraße 33, Room 356, 80799 München ([Map](https://www.lmu.de/rau
 
 Connect: [LinkedIn](https://www.linkedin.com/in/carlos-romero-bl%C3%A1zquez/)
 
-## Distinctions
-
-[**Award for Excellence in Teaching**](https://www.lmu.de/alumni-econ/en/awards/teaching-award/), Faculty of Economics, LMU Munich
