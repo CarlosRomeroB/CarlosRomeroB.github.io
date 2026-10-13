@@ -55,7 +55,7 @@ Oct 2016 – Aug 2017
 
 ## Distinctions
 
-[**Award for Excellence in Teaching**](https://www.lmu.de/alumni-econ/en/awards/teaching-award/), Faculty of Economics, LMU Munich
+[Award for Excellence in Teaching](https://www.lmu.de/alumni-econ/en/awards/teaching-award/), Faculty of Economics, LMU Munich
 
 ## Contact
 
